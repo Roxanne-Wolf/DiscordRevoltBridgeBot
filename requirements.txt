@@ -1,0 +1,4 @@
+discord.py
+discord
+pyvolt-re @ git+https://github.com/MCausc78/pyvolt@master
+requests
