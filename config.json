@@ -1,13 +1,12 @@
 {
-    "discordbottoken": "",
-    "discordbotprefix": "!",
-    "revoltbottoken": "",
-    "revoltbotprefix": "!",
-    "botname": "Discord+Revolt Bridge Bot",
+	"discordbottoken": "",
+	"discordbotprefix": "!",
+	"stoatbottoken": "",
+	"stoatbotprefix": "!",
 
-    "discordchannelid": DISCORD_CHANNEL_ID_HERE,
-    "discordwebhookurl": "",
-    "revoltchannelid": "",
+	"discordchannelid": DISCORD_CHANNEL_ID_HERE,
+	"discordwebhookurl": "",
+	"stoatchannelid": "",
 
-    "lang": "en"
+	"lang": "en"
 }
